@@ -4,3 +4,9 @@ C:\Phase 2\Batch2\Day1\HelloWorld\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWor
 C:\Phase 2\Batch2\Day1\HelloWorld\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
 C:\Phase 2\Batch2\Day1\HelloWorld\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
 C:\Phase 2\Batch2\Day1\HelloWorld\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+E:\BITM\git\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+E:\BITM\git\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+E:\BITM\git\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb
+E:\BITM\git\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+E:\BITM\git\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+E:\BITM\git\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csprojResolveAssemblyReference.cache
